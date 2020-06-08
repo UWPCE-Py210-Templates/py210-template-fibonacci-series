@@ -1,1 +1,7 @@
 # py210-template-fibonacci-series
+
+Write your code in`series.py` file. 
+
+This assignment includes automated checks:
+* python code style (review here: [Python Style and Linting](https://uwpce-pythoncert.github.io/PythonCertDevel/modules/Pep8.html))
+* automated tests
