@@ -1,5 +1,7 @@
 # py210-template-fibonacci-series
 
+[Assignment Details](https://uwpce-pythoncert.github.io/ProgrammingInPython/exercises/fib_and_lucas.html)
+
 Write your code in`series.py` file. 
 
 This assignment includes automated checks:
