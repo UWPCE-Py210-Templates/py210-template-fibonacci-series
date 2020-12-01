@@ -1,7 +1,8 @@
 from series import fibonacci, lucas, sum_series
 
+# this can throw max depth recursion if code isn't checking for positive number which we do not call out in instructions.
+# assert fibonacci(-1) is None
 
-assert fibonacci(-1) is None
 
 assert fibonacci(0) == 0
 assert fibonacci(1) == 1
